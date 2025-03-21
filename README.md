@@ -19,9 +19,6 @@ Cuando resuelvas el crimen y creas saber quién es el verdadero culpable, utiliz
 <h3><b>PISTAS:</b></h3> <ul> <li>(Recuerda apoyarte en el modelo visual de la base de datos).</li> <li>(Lee detalladamente toda la información que encuentres).</li> </ul>
 
 <b>Pista 1:</b> Lo resaltado en <b>negrita</b> puede guiarte sobre dónde buscar.<br> <b>Pista 2:</b> En el castillo existe un inventario de <b>objetos</b>. ¿Qué objetos podrían ser <b>verdes</b>?<br> <b>Pista 3:</b> ¿Quiénes han tenido en <b>posesión</b> el veneno verde?<br> <b>Pista 4:</b> ¿Dónde puedes buscar más información sobre ellos? Si te ves atascado, siempre puedes ampliar la <b>investigación</b>.<br> <b>Pista 5:</b> La relación del sospechoso con el protagonista siempre puede ser de ayuda.
-<h3>Desenlace</h3>
-
-<b>(Lee esto luego de haber descubierto al culpable).</b>
 
 <h3>Proyecto realizado por:</h3>
 
