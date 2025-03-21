@@ -23,12 +23,6 @@ Cuando resuelvas el crimen y creas saber quién es el verdadero culpable, utiliz
 
 <b>(Lee esto luego de haber descubierto al culpable).</b>
 
-Después de una serie de investigaciones, se revela que el veneno utilizado era una sustancia rara proveniente de un reino vecino. Solo una persona en el castillo tenía acceso a ella: el alquimista real. Sin embargo, el alquimista afirma que su veneno fue robado días antes.
-
-Las <b>sospechas</b> recaen en tres personas:<br> <b>Merlín, el alquimista</b> - Era el mejor amigo del rey. ¿Podría haber tenido alguna rencilla oculta que nadie conocía?<br> <b>Tiana, la cocinera del castillo</b> - Era una de las amantes ocultas del rey. Tenía acceso a los alimentos y podría haber utilizado el veneno para preparar el dulce chocolate.<br> <b>Mulán, la guardia</b> - La segunda amante del rey. Tenía una conexión con el reino de donde provenía el veneno y conocía dónde lo guardaba Merlín.<br>
-
-Tras recopilar pruebas, se descubre que la verdadera culpable era Tiana, la cocinera del castillo. Movida por el rencor al descubrir que no era el único amor del rey, intentó envenenar al protagonista. Sin embargo, su plan fracasó cuando el ladrón se comió la chocolatina antes que su objetivo.
-
 <h3>Proyecto realizado por:</h3>
 
 <a href="https://github.com/AlexiaCassLe">Alexia Casas León</a>
